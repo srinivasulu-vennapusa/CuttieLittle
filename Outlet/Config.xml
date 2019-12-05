@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Offline><Payment-Provider><name>iZettle</name><username>externaldemo@izettle.com</username><password>externaldemo123</password><key>EB8AD48B0B4E5DB791FD8E2AB29B2D60</key><status>in-active</status></Payment-Provider><Payment-Provider><name>mswipe</name><username>externaldemo@izettle.com</username><password>externaldemo123</password><status>active</status></Payment-Provider><Payment-Provider><name>ezetap</name><username>externaldemo@izettle.com</username><password>externaldemo123</password><status>in-active</status></Payment-Provider>
+
+   <bills-clean>
+        <days>15</days>
+        <hours>0</hours>
+   </bills-clean>
+   <edit-price><enable>YES</enable></edit-price>
+</Offline>

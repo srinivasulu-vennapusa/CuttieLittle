@@ -1,0 +1,1724 @@
+/* 
+  File.strings
+  OmniRetailer
+
+  Created by Sonali on 10/26/15. 
+
+*/
+
+"cancelled_bills_title" = "CANCELLED BILLS";
+"scanner_status_message" = "Scanner is not in range.\n Please turn on the device.";
+"New_customer_message" = "New Customer";
+"bills_not_availabe" = "Bills are not available";
+"new_bill" = "New Bill";
+"pending_bills" = "Pending Bills";
+"draft_bills" = "Draft Bills";
+"door_delivery_bills" = "Door Delivery";
+"past_bill" = "Completed Bills";
+"cancelled_bills" = "Cancelled Bills";
+"returned_bills" = "Returned Bills";
+"exchange_bills" = "Exchange Bills";
+"returning_bill" = "Return Bill";
+
+"customer_walkout" = "Customer Walkout";
+"view_stocks" = "View Stocks";
+"stock_receipt" = "Stock Receipt";
+"stock_issue" = "Stock Issue";
+"stock_request" = "Stock Request";
+"stock_return" = "Stock Return";
+"verify_stocks" = "Verify Stocks";
+"verified_stock_report" = "Verified Stock Report";
+"purchases" = "Purchases";
+"shipments" = "Shipments";
+"receipts" = "Goods Receipt Note";
+"deals" = "Deals";
+"offers" = "Offers";
+
+"orders" = "Orders";
+"delivered_orders" = "Delivered Orders";
+"complaints" = "Complaints";
+"pending_orders" = "Pending Orders";
+
+"sales_reports" = "Sales Reports";
+"order_reports" = "Order Reports";
+"x_eading" = "X Reading";
+"z_reading" = "Z Reading";
+"z_reading_consolidate" = "Z Reading Consolidate";
+
+"new_loyalty_card" = "New Loyalty Card";
+"view_loyalty_card" = "View Loyalty Card";
+"edit_loyalty_card" = "Edit Loyalty Card";
+
+"new_gift_voucher" = "Issue Gift Voucher";
+"view_gift_voucher" = "View Gift Voucher";
+"edit_gift_voucher" = "Edit Gift Voucher";
+
+"new_gift_coupon" = "Issue Gift Coupon";
+"view_gift_coupon" = "View Gift Coupon";
+
+"min_payment_not_reached" = "Minimum e-payment is %.2f";
+"OK" = "OK";
+"VERIFIED_STOCK_DETAILS" = "VERIFIED STOCK DETAILS";
+
+
+"bill_iD" = "Bill ID";
+"item" = "Item";
+"total_bill" = "Total Bill";
+"tax" = "Tax";
+"sub_total" = "Sub Total";
+"returning_item_bill" = "Returning Item Bill";
+"returning_items_bill" = "Returning Items Bill";
+"returned_amount" = "Returned Amount";
+
+"exchanged_amount" = "Exchanged Amount";
+"exchange_item_bill" = "Exchange Item Bill";
+
+"exchanged_items" = "Exchanged Items";
+"exchanged_cerdit_details" = "Exchange/Cerdit Details";
+"_:_" = " : ";
+"gift_voucher_coupon_loyalty_card" = "Gift Voucher / Coupon / \n Loyalty Card / Wallet";
+"type_" = "Type ";
+"valid_from" = "Valid From ";
+"valid_to" = "Valid To ";
+"voucher_id_" = "Voucher Id ";
+"voucher_code_" = "Voucher Code ";
+"available_cash_" = "Available Cash ";
+"avail_points_" = "Avail Points ";
+"encashing_amount" = "Encashing Amount ";
+"16_digit_code" = "16 Digit Code";
+"5_digit_code" = "5 Digit Code";
+
+"type" = "Type";
+"coupon_code" = "Coupon Code";
+"coupon_id" = "Coupon Id";
+"issued_on" = "Issued On";
+"issued_to" = "Issued To";
+"coupon_status" = "Coupon Status";
+"valide_from" = "Valide From";
+"valide_to" = "Valide To";
+"generate_otp" = "Generate OTP";
+"please_enter_otp" = "Please Enter OTP";
+"please_generate_the_otp" = "Please Generate OTP";
+"please_enter_valide_otp" = "Please Enter Valide OTP";
+
+"select_type" = "Select Type";
+"search_items_here" = "Search items here";
+
+"credit_bill_will_not_be_saved_as_draft_" = "Credit Bill will not be saved as draft..";
+"cloud_config" = "Cloud config";
+"about_us" = "About us";
+"help" = "Help";
+
+"quick_pay" = "Quick Pay";
+"cash_pay" = "Cash Pay";
+"card_pay" = "Card Pay";
+"save_bill" = "Save Bill";
+"other_pay" = "Other Pay";
+"emp_info" = "Emp Info";
+"gift_cpn" = "Gift Coupon";
+"credit_note" = "Credit Note";
+"send_sms" = "Send SMS";
+"send_email" = "Send Email";
+"print_bill" = "Print Bill";
+"refresh" = "Refresh";
+
+"customer_purchases" = "Customer Purchases";
+"show_list" = "Show List";
+"getting_custome_purchases" = "Getting customer purchases..";
+
+//added on 26/11/2016 bhargav
+
+"S_NO" = "SNo";
+"bill_id"  = "Bill Id";
+"date" = "Date";
+"counter" = "Counter";
+
+"customer_name" = "Customer Name";
+"name" = "Name";
+
+"bill_due" = "Bill Due";
+"status" = "Status";
+"action" = "Action";
+"closed_date_should_not_be_earlier_than_created_date" = "End date should not be earlier than start date";
+"HUD_LABEL" = "Please wait...";
+
+
+"Search_BillId_Here" = "Search Bill ID";
+"Search_Sku_Here" = "Search Sku Here";
+"start_date" = "  Start Date";
+"end_date" ="  End Date";
+"request_id" = "Request ID";
+"request_date" = "Request Date";
+"requested_by" = "Requested By";
+"req_qty" = "Req Qty";
+"app_qty" = "App Qty";
+
+"sku_id" = "Sku ID";
+"item_desc" = "Desc";
+"uom" = "UOM";
+"reqQty" = "ReqQty";
+"quantity" = "Quantity";
+"issueQty" = "IssueQty";
+"make" = "Make";
+"cost" = "Cost";
+"price" = "Price";
+"value" = "Value";
+"total_qty" = "Total Quantity";
+"total_cost" = "Total Cost";
+"ACESS_DENIED" = "Access is denied for the user";
+"comments" = "Comments";
+"reason" = "Reason";
+
+"deals_or_offers_(_-_)" = "Deal or Offers (-)";
+"voucher_coupon_(_-_)" = "Voucher/Coupon (-)";
+"other_discount_(_%_)_(_-_)" = "Other Discounts (%) (-)";
+"total_discount" = "Total Discount";
+"net_pay" = "Net Pay";
+"bill_to_be_paid" = "Bill To Be Paid";
+"credits_left" = "Credits Left";
+"exchange_credit_amt" = "Exchange Credit Amt";
+
+"card_payment_details" = "Card Payment Details";
+"card_info" = "Card Info";
+"approval_code" = "Approval Code";
+"bank_name" = "Bank Name";
+"card_type" = "Card Type";
+
+"0_00" = "0.00";
+
+"other_payments" = "Other Payments";
+"select_payment_mode" = "Select Payment Mode";
+"select_coupon" = "Select Coupon";
+"reference_num" = "Reference Num";
+"ref_number" = "Ref Number";
+"total_amount_:" = "Total Amount :";
+"pay_mode" = "Pay Mode";
+"count" = "Count";
+"pay" = "Pay";
+
+"please_enter_necessary_information" = "Please enter necessary information.";
+"paid_amount_already_exceeded_the_bill_amount" = "Paid amount already exceeded the bill amount.";
+"please_do_payment_to_move_further" = "Please do payment to move further.";
+"please_do_complete_payment_to_move_further" = "Please do complete payment to move further.";
+"do_you_want_to_return_the_selected_items_?" = "Do you want to return the selected items ?";
+"do_you_want_to_exchange_the_selected_items_?" = "Do you want to Exchange the selected items?";
+"do_you_want_to_continue_with_cash_or_credit_note" = "Do you want to continue with Cash or Credit Note";
+"do_you_want_to_continue_with" = "DO you want to continue with ";
+
+
+"refNo" = "Ref No";
+"returnedBy" = "Returned By" ;
+"returnDate" = "Return Date";
+"shipment" = "Shipment";
+"toLocation"  = "To Location";
+"fromLocation" = "From Location";
+"FlatDisc" = "Flat Discount";
+"PercentileDisc" = "Percentage Discount";
+
+"receipt_total" = "Receipt Total";
+
+"issue_ref" = "Issue Ref";
+"receipt_ref" = "Receipt Ref";
+
+"xreading" = "X-Reading";
+"zreading" = "Z-Reading";
+"datewise" = "Date-Wise";
+"categorywise" = "Category-Wise";
+"skuwise" = "Sku-Wise";
+"supplies-report" = "Supplies Report";
+"material_consumption" = "Material Consumption";
+"tax_report" = "Tax Report";
+
+"goods_receipt_note_summary" = "GOODS RECEIPT NOTE - SUMMARY";
+"goods_receipt_note" = "NEW GOODS RECEIPT NOTE";
+"goods_receipt_note_edit" = "EDIT GOODS RECEIPT NOTE";
+
+
+"vendor_name" = "Vendor Name";
+"item_wise" = "Item Wise";
+"start_date" = "Start Date";
+"end_date" = "End Date";
+
+"search_here" = "Search here";
+
+
+"s_no" = "S No";
+"po_ref" = "PO Ref";
+"date" = "Date";
+"divrd_by" = "Dlvrd By";
+"status" = "Status";
+"vendor_name" = "Vendor Name";
+"po_qty" = "PO Qty";
+"divrd_qty" = "Dlvrd Qty";
+"action" = "Action";
+
+
+
+"item_name" = "Item Name";
+"grade" = "Grade";
+"order_qty" = "Order Qty";
+"order_price" = "Order Price";
+"supply_qty" = "Supply Qty";
+"supply_price" = "Supply Price";
+"net_cost" = "Net Cost";
+"handled_by" = "Handled By";
+
+"diff_qty" = "Diff Qty";
+"to_outlet" = "To Outlet";
+"stock_receipt_updated_successfully" = "Stock Receipt updated successfully";
+
+"grn_value" = "GRN Value";
+"select_person" = "Select Person";
+"select_person_id" = "Select Person Id";
+
+
+
+"save_all" = "Save All";
+"create_grn" = "Initiate GRN";
+"cancel_" = "Cancel";
+"total_" = "Total";
+"enter_otp" = "Enter OTP";
+"searching.." = "Searching..";
+
+"po_ref" = "PO Ref";
+"due_date" = "Due Date";
+"delivered_on" = "Delivered On";
+"supplier_id" = "Supplier ID";
+"supplier_name" = "Supplier Name";
+"inspectced_by" = "Inspected By";
+"received_by" = "Rcvd By";
+"delivered_by" = "Delivered By";
+"submitted_by" = "Submitted By";
+"approved_by" = "Approved By";
+"invoice_number" = "Invoice Number";
+"search_for_skus" = "Search for SKUs";
+
+
+"warehouse_id" = "Warehouse ID";
+"action_required" = " Action Required";
+
+
+
+"SUCCESS" = "SUCCESS";
+
+"success" = "Success";
+"warning" = "Warning";
+
+"creation_of_goods_receipt_note_was_successfully_goods_note_reference_id_is" = "Creation of Goods Receipt Note was successfull & Goods Receipt Note reference Id is ";
+
+"alert" = "Alert";
+"sorry" = "Sorry";
+"error" = "Error";
+
+"no_data_found" = "No data found";
+"request_time_out" = "Request Time Out";
+
+"unable_to_process_your_request" = "Unable to process your request.";
+
+"goods_receipt_note_updated_successfully" = "Goods Receipt Note updated successfully";
+"item_updated_successfully" = "Item updated successfully";
+"new" = "New";
+"sub_total_:" = "Sub Total:";
+"shipment_cost_:" = "Shipment Cost:" ;
+"taxes_:" = "Tax:";
+"total:" = "Total:";
+"item_id" = "Item ID";
+"po_price" = "PO Price";
+"divrd_qty" = "Dlvrd Qty";
+"divrd_price" = "Dlvrd Price";
+"shipping_cost_:" = "Shipment Cost:";
+"please_select_the_supplier_first" = "Please select the supplier id first";
+
+"_cash_denomination" = "    Cash Denomination";
+"paid_amount" = "Paid Amount";
+"change_return" = "Change Return";
+"continue" = "Continue";
+"currency" = "Currency";
+"_currency" = "    Currency";
+"invalid_input" = "Invalid Input";
+
+
+"change_to_be_returned" = "Change To Be Returned";
+
+/*used in GRN Summary*/
+"no_of_po_items" = "No of PO items";
+"total_po_quantity" = "Total PO Quantity";
+"no_received_items" = "No Received Items";
+"total_received_qunatity" ="Total Received Quantity";
+"quantity_variance" = "Quantity Variance";
+"quantity_varience_in_%" = "Quantity Variance in %";
+
+"please_add_items_to_cart" = "Please add items to cart";
+
+"Receive Qty" = "Received Qty";
+"Reject Qty" = "Rejected Qty";
+"Exchange Bills" = "Exchanged Bills";
+
+"new_exchange_bill" = "New Exchage Bill";
+"getting_creditnote_info_" = "Getting Credit Note Info..";
+
+/*added by Srinivasulu on 14/04/2017*/
+"bill_count" = "Bill Count";
+"last_bill_total" = "Last Bill Total";
+"scanner_status" = "Scanner Status";
+"total_Items_bill" = "Total Items";
+"login_otp_alert" = "Login OTP Alert";
+"resend_otp" = "Resend OTP";
+"otp_has_been_sent" = "OTP has been sent";
+"membership_platinum" = "MEMBERSHIP PLATINUM";
+"membership_gold" = "MEMBERSHIP GOLD";
+"membership_silver" = "MEMBERSHIP SILVER";
+"please_select_membership_details" = "Please Select Membership Details.";
+
+"actual_price" = "Actual Price";
+"avail_qty" = "Avail Qty";
+"avl_qty" = "Avl Qty";
+"please_select_issued_location" = "Please select Issued Location";
+"please_select_shipment_mode" = "Please select shipment mode";
+"please_select_shipped_date" = "Please select shipped date";
+
+"total_inventory_cost_:" = "Total Inventory Cost :";
+"getting_bill_details_" = "Getting Bill Details...";
+"return_bill" = "RETURN BILL";
+
+"enter_quantity" = "Enter Quantity";
+"billed_items" = "Billed items";
+"exchange_qty_:" = "Exchange Qty :";
+"billed_qty_:" = "Billed Qty    :";
+"unit_price_:" = "Unit Price    :";
+"return_qty_:" = "Return Qty   :";
+"reason_:"     = "Reason        :";
+"return_reason_:" = "Return Reason :";
+"enter_qty" = "Enter Qty";
+"return_reason" = "Return Reason";
+"exchange_reason" = "Exchange Reason";
+
+"this_bill_can_not_be_returned" = "This bill can not be returned.";
+"this_bill_can_not_be_exchanged" = "This bill can not be exchanged.";
+
+"quantity_should_be_less_than_or_equal_to_billed_quantity" = "Quantity Should be Less than or Equal to  Billed Quantity";
+
+"please_check_the_denominations_amount_exceeded_the_return_amount" = "Please, Check the Denominations!! Amount exceeded the Return Amount.";
+
+"please_check_the_denominations_amount_exceeded_the_bill_amount" = "Please, Check the Denominations!! Amount exceeded the Bill Amount.";
+
+"credit_bills" = "Credit Bills";
+
+"before_switch_to_online_code_please_enable_wifi" = "Before switch to online mode. Please enable wifi";
+
+"ok" = "Ok";
+"search_request_id" = "Search Request ID";
+"outlet_id" = "Outlet Id";
+"zone_id" = "Zone ID";
+"approved_on" = "Apporved On";
+
+"category" = "Category";
+"sub_category" = "Sub Category";
+"department" = "Department";
+"sub_department" = "Sub Department";
+"generate_indents" = "Generate Indents";
+"total_outlets" = "Total Outlets";
+"total_indent_requests" = "Total Indent Requests";
+"approved_qty_should_be_less_then_or_equal_to_requested_qty" = "Approved qty should be less then or equal to requested qty";
+"est_cost" = "Est Cost";
+"more" = "More";
+
+"2_to_7" = "2 to 7";
+"8_to_12" = "8 to 12";
+"13_to_19" = "13 to 19";
+"20_to_40" = "20 to 40";
+"41_to_60" = "41 to 60";
+"61_to_above" = "61 to above";
+
+"kids" = "Kids";
+"women" = "Women";
+"teens" = "Teens";
+"men" = "Men";
+"total_no_of_walk_ins" = "Total no of walkins";
+"z_report_customer_walk_ins" = "Z - Report Customer Walkins";
+"skip" = "Skip";
+"submit_" = "Submit";
+
+"instructions_:" = "Instructions :";
+"point_1" = "1) Please ensure that counter is colsed and no more bills are in pending for the day.";
+"point_2" = "2) Ensure that shift report is done before running the Z Report.";
+"point_3" = "3) Z Report is taken to valiadate all totals for the days.  This includes Cash, Card and other modes of payment.";
+"point_4" = "4) You must take Print Out or Email the Z Report before the day is closed.";
+"point_5" = "5) Business Date and Calendar Date should not be differ by more than a day.";
+
+"alert_message" = "Alert Message";
+"message" = "Message";
+"device_date_alert" = "Your mobile device date is not correct. This effects the Business Transactions. Please set the date by going to Settings -> General -> Date & Time";
+
+"z_report_info_alert_1" = "You have taken Z – Report on ";
+"z_report_info_alert_2" = ". There is no bill made till now. Please ensure that you take Z Report at the end of the day.";
+"z_report_info_alert_3" = "There is no bill made till now. Please ensure that you take Z Report at the end of the day.";
+
+"select_the_sales_person_for_all_items" = "Select the sales person for all items.";
+"select_the_all_necessary_fields" = "Select the all necessary fields.";
+
+"previous_day_z_report_alert" = "You have not closed the previous day. To close a business day, you must take Z Report. You can not do new bills unless you excecute Z Report.";
+"further_day_z_report_alert" = "You can generate only one Z Report per day.  Z Report means, the business day is closed.  Any bills done after Z Report will reflect in tomorrow Z Report.";
+
+
+"no_data_to_print" = "No Data To Print";
+"can_not_generate_future_date_z_report" = "Can not generate future date Z - Report.";
+"please_select_the_date_before_generating_z_report" = "Please select the date before generating Z - Report";
+
+"quantity_should_be_less_than_or_equal_to_availble_quantity" = "Quantity should be less than or equal to  availble quantity";
+
+"out_of_stock" = "Out of stock.";
+
+"invalid_ip_address" =  "Invalid IP Address";
+"please_enter_valid_ip_address" = "Please enter valid IP address";
+"please_enable_wifi_mobile_data" = " Please enable wifi/mobile data";
+
+"please_try_again_to_complete_the_bill" = "Please try again to complete the bill.";
+"bill_failed_try_again" = "Bill Failed. Try Again...";
+
+//added by Bhargav from 13/04/2017....
+
+"omni_retailer" ="OMNI RETAILER";
+"please_wait.." = "please wait..";
+"total_qty" = "Total Quantity";
+
+
+"color" = "Color";
+//"no_items" = "Items";
+"delivery_Date" = "Delivery Date";
+"item_code" = "Item Code";
+"current_Stock" = "Current Stock";
+"qoh" = "QOH";
+"prv_indent_qty" = "Prev Qty";
+"proj_qty_lbl" = "Proj Qty";
+"total_indent_value" = "Total Indent Value:";
+"total_items" = "Total Items:";
+"total_Qty" = "Total Quantity:";
+"avg_indent" = "Avg Indent";
+"avg_sales" = "Avg Sales";
+"avg_dump" = "Avg Dump";
+"avg_return" = "Avg Return";
+
+"total_qty" = "Total Quantity";
+"totalEst_cost" = "Total Est Cost";
+":" = ":";
+
+"request_id" = "Req ID";
+"outlet_id" = "Outlet ID";
+"request_date" = "Req Date";
+"requested_by" = "Req By";
+"req_qty" = "Req Qty";
+"app_qty" = "App Qty";
+"no_items" = "Req Items";
+"delivery_Date" = "Delivery Date";
+"status" = "Status";
+
+
+//upto here from 03/04/2017 to till today....
+
+"stock_receipt_c" = "STOCK RECEIPT";
+"please_wait.." = "Please Wait..";
+"issued_by"= "Issued By";
+"issued_qty" = "Issued Qty";
+"weigh_qty" = "Weigh Qty";
+
+"total_items" = "Total Items:";
+":" = ":";
+"total_qty_2" = "Total Qty";
+"issue_qty" = "Issue Qty";
+"weighed_qty" = "Weighed Qty";
+"accepted_qty" = "Acptd Qty";
+"rejected_qty" = "Rjctd Qty";
+"received_qty" = "Receved  Qty";
+"brand" = "Brand";
+"model" = "Model";
+
+"new_stock_receipt" = "New Stock Receipt";
+"from_location" = "From Location";
+"select_date" = "Select Date";
+"request_ref_no" = "Request Ref. No";
+"request_ref_number" = "Request Ref.Number";
+"issue_ref_no" = "Issue Ref.No";
+"issue_ref_number" = "Issue Ref.Number";
+
+"ref_no" = "Ref No";
+"recevd_qty" = "Recevd Qty";
+
+
+"stock_request_genearated_successfully" = "Stock Request generated successfully";
+
+"&_request_id_:" = "& Request Id : ";
+
+"search_receipt_id" = "Search ReceiptID";
+"search" = "Search";
+"clear" = "Clear";
+"new_issue" = "New Issue";
+
+
+"issue_from" = "Issue From";
+"issue_to" = "Issue To";
+"no_of_items" = "No of Items";
+"remarks" = "Remarks";
+
+"submit_" = "Submit";
+"back" = "Back";
+
+"total_issues_:" = "Total Issues:";
+"total_sale_cost_:" = "Total Sale Cost:";
+
+"selected_date_can_not_be_more_than_current_data" = "Selected data can not be more than current data";
+"start_date_should_be_earlier_than_end_date" = "Start date should be earlier than end date";
+"end_date_should_not_be_earlier_than_start_date" = "End date should not be earlier than start date";
+
+
+
+"Pending_Bills" = "PENDING BILLS";
+"Credit_Bills" = "CREDIT BILLS";
+
+"search_bill" = "Search Bill";
+"mobile_number" = "Mobile Number";
+
+"go" = "Go";
+"-" = "-";
+"of" = "Of";
+"_credit_note" = "   Credit Note";
+
+//added Strings for the price List headers..
+"description" = "Description";
+"mrp_rps" = "MRP(RS)";
+"Door_Delivery_Bills" = "DOOR DELIVERY BILLS";
+
+"return_billing" = "RETURN BILLING";
+"exchange_billing" = "EXCHANGE BILLING";
+
+"billed_date_can_not_be_more_than_current_data" = "Billed date can not be more than Current data";
+
+"please_select_the_reason_for_exchanging_the_item" = "Please select the reason for exchanging the item.";
+"please_select_the_reason_for_returning_the_item" = "Please select the reason for returning the item.";
+
+"please_select_the_department_first" = "Please select the department first.";
+
+"discount_is_not_applicable" = "Discount is not applicable ";
+"price_edit_is_not_allowed" = "Price edit is not allowed";
+"qty_cannot_be_editable" = "Quantity cann't be editable";
+
+
+"completed_bills_not_availabe" = "Completed bills are not availiable";
+"pending_bills_not_availabe" = "Pending bills are not availiable";
+"credit_bills_not_availabe" = "Credit bills are not availiable";
+"cancelled_bills_not_availabe" = "Cancelled bills are not availiable";
+
+"door_delivery_bills_are_not_availabe" = "Door delivery bills are not available.";
+"returned_bills_are_not_availabe" = "Returned bills are not available.";
+
+"do_you_want_to_cancel_this_bill_?" = "Do you want to cancel this bill?";
+
+"exchange_bills_not_availabe" = "Exchange bills not availiable";
+"return_bills_not_availabe" = "Return bills not availiable";
+
+
+"completed_bill" = "COMPLETED BILL";
+"credit_bill" = "CREDIT BILL";
+"pending_bill" = "PENDING BILL";
+"door_delivery_bill" = "DOOR DELIVERY BILL";
+"cancelled_bill" = "CANCELLED BILL";
+"returned_bill" = "RETURNED BILL";
+"exchanged_bill" = "EXCHANGED BILL";
+"device_id_:" = "Device Id :";
+
+"offline" = "Offline";
+"online" = "Online";
+
+//STOCK MANAGEMENT
+//ADDED BY BHARGAV ON 29/07/2017....
+"stock_receipt_c" = "STOCK RECEIPT - SUMMARY";
+"new_stock_receipt" = "NEW STOCK RECEIPT";
+"edit_stock_receipt" = "EDIT STOCK RECEIPT";
+
+"stock_requestSummary" = "STOCK REQUEST - SUMMARY";
+"newStock_request" = "NEW STOCK REQUEST";
+"editStock_request" = "EDIT STOCK REQUEST";
+
+"stock_issue_summary" = "STOCK ISSUE - SUMMARY ";
+"new_stock_issue" = "NEW STOCK ISSUE";
+"edit_Stock_issue" = "EDIT STOCK ISSUE";
+"new_issue" = "NEW ISSUE";
+
+//stock verification strings...
+"stock_verification" = "STOCK VERIFICATION - SUMMARY";
+"start_verification" = "START VERIFICATION";
+"new_stock_verification" = "NEW STOCK VERIFICATION";
+"edit_stock_verification" = "EDIT STOCK VERIFICATION";
+"do_you_want_to_verify_the_stock" = "Do you want to verify the stock";
+
+
+
+"sku_name" = "Sku Name";
+"open_stock" = "Open Stck";
+"sale_qty"  = "Sale Qty";
+
+"sku_desc" = "Sku Desc";
+"book_stock" = "Book Stock";
+"actual_stock" = "Act Stock";
+"declared_stock" = "Dclrd Stck";
+"close_Stock" = "Close Stck";
+"stock_dump" = "Stck Dump";
+"dump_cost" = "Dump Cost";
+"stock_loss" = "Stck Loss";
+"loss_cost" = "Loss Cost";
+"diff" = "Diff";
+"loss_type" = "Loss Type";
+"dump" = "Dump";
+
+
+"total_actualStock" = "Total Actual Stock:";
+"total_bookStock" = "Total Book Stock:";
+"total_openStock" = "Total Open Stock:";
+
+
+"stock_verification_generated_successfully" = "Stock Verification Generated Successfully";
+"stock_verification_updated_successfully" = "Stock Verification Updated Successfully";
+"&_verification_code:" = "& Verification Code: ";
+
+//added By Bhargav to Select multiple Stores...
+
+"range" = "Range";
+"stock_qty" = "Stock Qty";
+"balance_qty" = "Blnce Qty";
+
+"please_select_category_first" = "Please select category first";
+
+"start_time_should_be_earlier_than_end_time" = "Start time should be earlier than end time";
+"end_time_should_not_be_earlier_than_start_time" = "End time should not be earlier than start time";
+
+
+//string used to show the alert if we get any issue before calling the service call..
+
+"unable_to_process_your_request" = "Unable to process your request.";
+
+//string used to display the alert to the unassigned functionality buttons.
+
+"currently_this_feature_is_unavailable" = "Currently this feature is not available.";
+"product_menu_details_does_not_exists" = "Product menu details does not exists";
+//string used to display the alert to select atleast one category in categories List...
+
+"please_select_atleast_one_category" = "Please select atleast one category.";
+"this_feature_can_only_be_used_with_internet_connectivity" = "This feature can only be used with internet connectivity";
+
+//Added By Bhargav on 21/072017
+
+"submit" = "SUBMIT";
+"save" = "SAVE";
+"cancel" = "CANCEL";
+"update" = "UPDATE";
+"edit" = "EDIT";
+
+
+
+"search" = "SEARCH";
+"clear" = "CLEAR";
+
+"save_all" = "SAVE ALL";
+"generate_indents" = "GENERATE INDENTS";
+"go" = "GO";
+
+"genarating_reports.." = "Generating Report..";
+"bill_mode" = "Bill Mode";
+
+"start_time" ="Start Time";
+"end_time" ="End Time";
+
+//Recently added for displaying Total....
+
+"total"= "TOTAL";
+"sale_val"  = "Sale Value";
+"dump_Val" = "Dump Val";
+"dump_%" = "Dump%";
+"loss" = "Loss";
+
+
+
+//String which is used to display as alert  when location is  not Selected...
+"please_select_Location" = "Please select location";
+
+"search_issue_id" = "Search Issue ID";
+"select_stores"  = "Select Stores";
+
+"updating_stock_request.." = "Updating Stock Request";
+"stock_request_updated_Successfully" = "Stock Request Updated Successfully";
+"&_request_id_:" = "&Request ID:";
+
+"all_Stores" = "All Stores";
+
+
+//Reports Strings....
+"categoryWise_reports" = "CATEGORY-WISE REPORT";
+"section" = "Section";
+"total_sale" = "Total Sale";
+"start_date_should_be_earlier_than_endDate" = "Start date should be earlier than end date";
+
+"total_reports" = "TOTAL REPORTS:";
+
+//upto here on 07/08/2017....
+
+
+
+//upto here on 13/04/2017....
+
+//added by Srinivasulu from 22/12/2017....
+
+"error_in_parsing_the_xml" = "Error in parsing the XML";
+//used in pastbillpage/viewController....
+"billing_details" = "Billing Details";
+"payment_details" = "Payment Details";
+"return" = "Return";
+"exchange" = "Exchange";
+"exchange_transfers" = "Exchange Transfers";
+
+
+"unable_update_entered_discount_amount" = "Unable to update entered discount amount.";
+"customer_details_>>>" = "Customer Details>>>";
+
+"return_details" = "Return Details";
+"exchange_details" = "Exchange Details";
+"deal_or_offers" = "Deal or Offers";
+"other_discounts" = "Other Discounts";
+
+
+"txn_id" = "Txn Id";
+
+
+
+//upto her on --/08/2017....
+
+//added by Srinivasulu on 07/08/2017....
+"sync_status" = "Sync Status";
+"bill_amount" = "Bill Amount";
+"bill_amt" = "Bill Amt";
+
+
+"uploaded" = "Uploaded";
+"to_be_upload" = "To Be Upload";
+"cann't_upload" = "Cann't Upload";
+"pending" = "Pending";
+
+
+"yes" = "YES";
+"no" = "NO";
+
+"credit_bills_can_not_be_draft" = "Credit Bills can not be draft.";
+"do_you_want_to_save_the_bill_?" = "Do you want to save the bill?";
+"this_bill_already_upload_to_cloud" = "This bill already upload to cloud.";
+
+"please_select_at_least_one_item_to_return" = "Please select at least one item to return.";
+"please_select_at_least_one_item_to_exchange" = "Please select at least one item to exchange.";
+
+"do_want_to_delete_offline_bills_?" = "Do you want to delete offline bills?";
+
+"edit_item_details" = "Edit Item Details";
+"tax_rate_%" = "Tax Rate %";
+"avali_qty" = "Avail Qty";
+"actual_qty" = "Actual Qty";
+"edit_price" = "Edit Price";
+"reason_for_edit" = "Reason For Edit";
+"edit_qty" = "Edit Qty";
+"is_void" = "Is Void";
+"reason_for_void" = "Reason For Void";
+"flat_discount" = "Flat Discount";
+"flat_disc" = "Flat Disc";
+"%_discount" = "% Discount";
+"edit_reason" = "Edit Reason";
+"void_reason" = "Void Reason";
+"calculation" = "Calculated";
+"conversion_ration" = "Conversion Ratio";
+
+"manual_discount" = "Manual Discount";
+"sales_person" = "Sales Person";
+"product_deatils" = "Product Details";
+
+"department_sub_department" = "Department/Subdepartment";
+
+"mrp" = "MRP";
+"offer_discount" = "Offer Discount";
+"qty" = "Qty";
+"offer_disc" = "Offer Disc";
+"manual_disc" = "Manual Disc";
+"disc" = "Disc";
+"s_price" = "S Price";
+
+"" = "";
+"login" = "Login";
+"customer_id" = "Customer ID";
+"password" = "Password";
+"user_id" = "User ID";
+"forgot_password_?" = "Forgot Password ?";
+
+"updates_are_available_do_you_wnat_to_download_them_" = "Updates are available.\n Do you want to download them?";
+"updates_are_available_please_download_them_and_move_further" = "Updates are available.\n Please downlaod them and move further.";
+"do_you_want_to_switch_over_to_offline_mode" = "Do you want to switch over to offline mode";
+
+"login_failed" = "Login Failed";
+"please_check_credentials" = "Please Check Credentials";
+
+//used in x report.. added 10/04/2018....
+"sales_inclusive_tax_" = "Sales   (Inclusive TAX)";
+"item_discount_" = "Item Discount        (-)";
+"over_all_discount_" = "Overall Discount    (-) ";
+"net_sales_inclusive_tax_" = "Net Sales(Inclusive TAX)";
+"net_sales_exclusive_tax_" = "Net Sales(Exclusive TAX)";
+"cess" = "Cess";
+"service_charge_" = "Service Charge";
+"other_charge_" = "Other Charge";
+"tax_" = "TAX";
+"tax_exempted_" = "TAX Exempted";
+"total_sales_collection" = "Total Sales Collection";
+"deposit_collected" = "Deposit Collected";
+"deposit_refunded" = "Deposit Refunded";
+"deposit_forefeited" = "Deposit Forefeited";
+"deposit_utilised" = "Deposit Utilised";
+"total_amount_collected" = "Total Amount Collected";
+
+"pay_grp" = "Pay Grp";
+"amt_grp" = "Amt Grp";
+"declare_amt" = "Declare Amt";
+"diff_Amt" = "Diff Amt";
+
+"rs_" = "Rs.";
+
+
+
+//upto here on 07/08/2017....
+
+//Added By Bhargav on 09/08/2017...
+"sku_wise_reports" = "SKU-WISE REPORT";
+"ean" = "EAN";
+"colour" = "Colour";
+"size" = "Size";
+"sold_qty" = "Sold Qty";
+"return_qty" = "Return Qty";
+"total_sold_qty" = "Total Sold Qty:";
+"total_sold_Value" = "Total Sold Value:";
+
+"please_enter_valide_phone_no" = "Please, Enter valid phone no.";
+
+"batch" = "Batch";
+
+"stock_issue_generated_successfully" = "Stock Issue generated successfully";
+"stock_issue_updated_successfully"  = "Stock Issue updated successfully";
+
+//added the below keys by Saikrishna Kumbhoji on 01/08/2017......
+"customer_details" = "    Customer Details";
+"first_name" = "First Name";
+"last_name" = "Last Name";
+"gtin" = "GTIN";
+"email_address" = "Email Address";
+"address" = "Address";
+"door_no" = "Door No";
+"landmark" = "LandMark";
+"city" = "City";
+"street" = "Street";
+"pin_code" = "Pin Code";
+"previous_purchases" = "Previous Purchases";
+
+"indent_details" = "INDENT DETAILS";
+
+//for Filter purpose
+"all_outlets" = "All Outlets";
+"all_categories" = "All Categories";
+"all_subcategories" = "All SubCategories";
+"all_brands" = "All Brands";
+"all_models" = "All Models";
+"all_sections" = "All Sections";
+"all_suppliers" = "All Suppliers";
+"all_departments" = "All Departments";
+"all_subDepartments" = "All Sub Departments";
+"select_status" = "Select Status";
+"please_select_above_fields_before_proceeding" = "Please select above fields before proceeding";
+
+//Added on 17/11/2017 by Bhargav.v
+
+"loss_%" = "Loss%";
+
+"stock_transation_history" = "Stock Transations History";
+"daily_stock_movement" = "Daily Stock Movement";
+
+//upto here as on 01/08/2017...........
+
+
+"change_mind" = "Change Mind";
+"defective" = "Defective";
+
+"insufficient_money" = "Insufficient Money";
+"failed_card_payment" = "Failed Card Payment";
+
+"in_correct_price"  = "Incorrect price";
+"price_is_not_upto_date" = "Price is not upto date";
+"no_price_information" = "No price information";
+"please_select_the_reason_for_editing_the_item_price" = "Please select the reason for editing the item price.";
+"discount_reasons_are_not_avaliable" = "Discount reasons are not avaliable";
+"unable_to_display_reasons" = "Unable to display reasons";
+"print_templete_response_is_not_avaliable" = "Print templete response is not avaliable.";
+"return_amount" = "Return Amt";
+"paid_amouont" = "Paid Amt";
+"product_already_voided" = "Product Already Voided";
+
+
+"unable_to_provide_print_for_this_bill" = "Unable to provide print for this bill.";
+"unable_to_find_the_printer_please_check_the_printer_cable" = "Unable to find the printer. Please check the printer cable.";
+"unable_to_spot_the_printer_please_check_the_printer_cable" = "Unable to spot the printer. Please check the printer cable.";
+
+"please_enter_valide_price" = "Please enter valide price.";
+"please_select_the_denominations" = "Please select the denominations.";
+"please_void_the_item_first" = "Please void the item first.";
+
+"please_select_the_cancelled_reason" = "Please select the cancelled reason.";
+"please_select_the_item_void_reason" = "Please select the item void reason.";
+"discount_amount_should_not_exceeds_item_cost" = "Discount amount should not exceeds item cost.";
+"free_qty_should_not_exceed_delivered_qty" = "Free Qty should not exceed Delivered Qty";
+"enter_valide_quantity" = "Enter Valide Quantity.";
+"quantity_should_be_less_than_or_equal_to_available_quantity" = "Quantity Should be Less than or Equal to  Availble Quantity";
+"void_items" = "Void Items";
+"void" = "Void";
+
+"bill_cancel_reason" = "Bill Cancel Reason";
+"do_you_want_to_cancel_the_bill_?" = "Do you want to cancel the bill ?";
+"select_reason_:" = "Select Reason :";
+
+
+"item_void_reason" = "Item Void Reason";
+"do_you_want_to_void_the_item_?" = "Do you want to void the item ?";
+
+"total_sale_cost" = "Total sale cost";
+
+//usedin print format....
+"tax_invoice" = "Tax Invoice";
+"globus_stores_pvt_ltd" = "Globus Store Pvt Ltd";
+
+"item_discount" = "Item Discount";
+"invoice_discount" = "Invoice Discount";
+"total_invoice_value" = "Total Invoice Value";
+"total_gross" = "Total Gross";
+//Added By Bhargav on 10/08/2017....
+"hour_wise_report" = "HOUR-WISE REPORT";
+
+"time" = "Time";
+"total_bills" = "Total Bills";
+"cash_total" = "Cash Total";
+"card_total" = "Card Total";
+"returned_amount" = "Returned Amt";
+"exchange_amount" = "Exchange Amt";
+"sodexo_total" = "Sodexo Total";
+"ticket_total" = "Ticket Total";
+"loyalty_total" = "Loyalty Total";
+"credit_note" = "Credit Note";
+"gift_vouchers" = "Gift Vouchers";
+"coupons" = "Coupons";
+
+"hourWise_report" = "Hourly Sales";
+"avg_qty" = "Avg Qty";
+"avg_value" = "Avg Value";
+
+//Added By Bhargav on 11/08/20117...
+
+"date_wise_report" = "DATE-WISE REPORT";
+"loyalty_claim" ="Loaylty Claim";
+"discount" = "Discount";
+"credit_amount" = "Credit Amt";
+"credit_sales" = "Credit Sales";
+"dayTurn_Over" ="Day TurnOVer";
+
+"total_amount" = "Total Amt";
+"cash_amt" = "Cash Amt";
+"card_amt" = "Card Amt";
+"sodexo_amt" = "Sodexo Amt";
+"ticket_amt" = "Ticket Amt";
+"credits_amt" = "Credits Amt";
+
+"total_bills:" ="TOTAL BILLS:";
+
+//ViewStocks Strings....
+"demand_forecast" = "Demand Forecast";
+"available_stock" = "Available Stock";
+"ordered_stock"   = "Ordered Stock";
+"critical_stock"  = "Critical Stock";
+"blocked_stock"   = "Blocked Stock";
+"returned_stock"  = "Returned Stock";
+"boneyard"        = "Boneyard";
+"bonyard_stock"   = "Boneyard Stock";
+
+
+
+"product_name"  = "Product Name";
+"re_order"  = "Re-Order";
+"net_stock" = "Net Stock";
+
+"ordered_qty" = "Ordered Qty";
+"stock_card"  = "Stock Card";
+"measure_range" = "Range";
+
+"pack_qty" = "Pack Qty";
+"cost_price" = "Cost Price";
+"stock_value" = "Stock Value";
+
+//added on 18/08/2017...
+
+"ordered_date" = "Ordered Date";
+"location" = "Location";
+"sale_price" = "Sale Price";
+
+"please_select_department"  = "Please select department";
+"please_select_subCategory" = "Please select Sub Category";
+
+//added By Bhargav.v on 24/08/2017..
+
+"class" = "Class";
+"style" = "Model/Style";
+
+
+
+//added by Bhargav.v on 28/08/2017..
+
+"void_item_report" = "Void Item Report";
+
+"void_items_report" = "VOID ITEMS REPORT";
+"search_void_items" = "Search Void Items";
+"date_time" = "Date-Time";
+"user_name" = "User Name";
+"zone" = "Zone";
+"void_item_qty" = "Void Item Qty";
+"original_price" = "Origial price";
+
+
+// added under the Stock Details..
+
+"product_id"   = "Product ID";
+"product_desc" = "Product Description";
+"grn_qty" = "GRN Qty";
+"dump_qty" = "Dump Qty";
+"net" = "Dump Qty";
+
+
+//Added on 31/08/2017...
+"select_to_outlets" = "Select to outlets";
+"select_to_outlet" = "Select to outlet";
+"from_outlets" = "From outlets";
+"shipped_by"  = "Shipped By";
+"received_By" = "Rcvd By";
+"shipment_mode" = "Shipment Mode";
+"stock_details" = "STOCK DETAILS";
+
+"override_sales_report" = "Override Sales Report";
+"override_sales" = "OVERRIDE SALES REPORT";
+
+"cashier_name" = "Cashier Name";
+"total_price:" = "Total Price:";
+
+
+//Added By Bhargav.v on 18/09/2017...
+
+"salesmen_commission_report" = "Sales Person Report";
+//"salesmen_commission" = "SALESMEN COMMISSION REPORT";
+"salesmen_commission" = "SALES PERSON REPORT";
+
+
+
+
+"salesman_name" = "Salesman Name";
+"salesman_id" = "Salesman ID";
+"business_date" = "Business Date";
+"shift_Id" = "Shift ID";
+"amount" = "Amount";
+"averageQty/txn" = "Avg Qty/Txn";
+"average_amount/txn" = "Avg Amount/Txn";
+
+"transaction_count" = "Txn Count";
+"counter_id" = "Counter ID";
+"total_amt:" = "Total Amount:";
+"total_txn:" = "Total Transactions:";
+"department_wise_report" = "Department Wise Report";
+"department_wise" ="DEPARTMENT WISE REPORT";
+"department_desc" = "Department Desc";
+"total_sale" = "TotalSale";
+
+//Added By Bhargav.v on 28/09/2017
+"no_records_found" = "No Records Found";
+
+//view Stocks Header Name labels..
+
+"header_available_stock" = "AVAILABLE STOCK";
+"header_critical_stock"  = "CRITICAL STOCK";
+"header_ordered_stock"   = "ORDERED STOCK";
+"header_blocked_stock"   = "BLOCKED STOCK";
+"header_returned_stock"  = "RETURNED STOCK";
+"header_bonyard_stock"   = "BONEYARD STOCK";
+
+"exch_qty" = "Exch Qty";
+"exchange_qty" = "Exchange Qty";
+"transferred_qty" = "Trnsfrd Qty";
+"stock_receipts" = "Stck Receipts";
+"stock_return_qty" = "Stck Return Qty";
+
+
+// Newly added Strings for the View Stocks...
+
+"order_packs" = "Order Packs";
+"order_qty"   = "Order Qty";
+"order_value" = "Order Value";
+
+"dump_packs" = "Dump Packs";
+"dump_value" = "Dump Value";
+
+"please_add_items_to_the_cart" = "Please add items to the cart";
+
+
+// Added from 08/11/2017 by Bhargav.v
+
+
+"please_add_items_to_the_cart" = "Please add items to the cart";
+
+"app_items" = "App Items";
+"select_outlet" = "Select Outlet";
+
+
+"please_verify_zeroQty_items_are_available" = "Please verify Zero Quantity items are available";
+
+"do_you_want_to_submit_this_indent" = "Do you want to submit this indent";
+
+"requested_qty" = "Requested Qty";
+
+"indent_details" = "INDENT DETAILS";
+
+//for Filter purpose
+"all_outlets" = "All Outlets";
+"all_categories" = "All Categories";
+"all_subcategories" = "All SubCategories";
+"all_brands" = "All Brands";
+"all_models" = "All Models";
+"select_status" = "Select Status";
+"please_select_above_fields_before_proceeding" = "Please select above fields before proceeding";
+
+//Added on 17/11/2017 by Bhargav.v
+
+"loss_%" = "Loss%";
+"stock_transation_history" = "Stock Transations History";
+"daily_stock_movement" = "Daily Stock Movement";
+
+"items" = "Items";
+"remove_this_item_from_the_list" = "Remove this item from the list?";
+"item_already_added_to_the_cart" = "Item Already added to the cart";
+
+//Added on 28/11/2017... By Bhargav.v....
+"daily_stock" = "Daily Stock";
+"open" = "Open";
+"close" = "Close";
+"packs" = "Packs     Stock Qty";
+
+"pattern" = "Pattern";
+"style_"  = "Style";
+"location_" = "Location:";
+"minus" = "-";
+"plus"  = "+";
+"add"   = "ADD TO CART";
+"next"  = "Next>";
+"previous_button" = "<Prev";
+
+
+"issue_date_should_be_earlier_than_delivered_date" = "Issue date should be earlier than end date";
+"issue_date_should_not_be_earlier_than_requested_date" = "Issue date should not be earlier than end date";
+"request_date_should_be_earlier_than_delivery_date" = "Request date should be earlier than delivery date";
+"delivery_date_should_not_be_earlier_than_request_date" = "Delivery date should not be earlier than request date";
+"stock_receipt_generated_successfully" = "Stock Receipt generated successfully";
+
+
+"issue_date" = "Issue Date";
+"sku_count"  = "Sku Count";
+"to_store" = "To Store";
+"shipped_from" = "Shipped From";
+
+"please_enter_no_of_walkins_for_the_day" = "Please Enter no of walkins for the day.";
+
+
+"stock_return_summary" = "STOCK RETURN SUMMARY";
+"new_stock_return" = "NEW STOCK RETURN";
+"edit_stock_return" = "EDIT STOCK RETURN";
+
+"search_stock_return_id" = "Search Stock Return ID";
+"total_value" = "Total Value";
+
+"total_Stock_return" = "Total Stock Returns";
+"total_return_qty" = "Total Return Quantity";
+
+"stock_return_generated_successfully" = "Stock Return Generated Successfully";
+"stock_return_updated_successfully" ="Stock Return Updated Successfully";
+
+"date_of_return" = "Date Of Return";
+"returned_by" ="Returned By";
+"shipment_carrier" = "Shipment Carrier";
+"shipment_on" = "Shipped On";
+
+"shipment_return" = "Shipment Return";
+"shipment_return_summary" = "SHIPMENT RETURN - SUMMARY";
+"new_shipment_return" =  "NEW SHIPMENT RETURN";
+"edit_shipment_return" = "EDIT SHIPMENT RETURN";
+
+
+
+"header_daily_stock" = "DAY WISE STOCK";
+"header_demand_forecast" = "DEMAND FORECAST";
+
+"sku_information" = "SKU - INFORMATION";
+"sku_id:" = "SKU:";
+"price:"  = "Price :";
+"currency_symbol" = "₹";
+"sub_class" = "Sub Class";
+
+//Added on 20/01/2018 by Bhargav.v ....
+
+"stock_indent" = "InBound Stock Indent";
+"outBound_indent"= "OutBound Stock Indent";
+
+"return_date" = "Return Date";
+"contact_no"  = "Contact No";
+
+"shipment_return_updated_sucessfully" = "Shipment Return updated successfully";
+"shipment_return_created_sucessfully" = "Shipment Return created successfully";
+
+//Added on 19/01/2018.... by Bhargav.v
+
+"due_date_should_not_be_earlier_than_delivered_date" = "Due date should not be earlier than delivered date";
+"delivered_date_should_be_earlier_than_due_date"     = "Delivered date should be earlier than due date";
+"quantity:" = "Quantity:";
+
+"search_return_id" = "Search Return ID";
+"Shipment_return_ref" = "Return Ref";
+
+"shipment_date" = "Shpmnt Date";
+"shpmnt_mode" = "Shpmnt Mode";
+"recved_qty"  = "Rcvd Qty";
+"retrn_qty"  = "Rtrn Qty";
+
+"suppier_shipment_reference" = "Supplier Shipment Ref";
+"return_time" = "Return Time";
+"to_supplier" = "To Supplier";
+"supplier_address" = "Supplier Address";
+"street_locality" = "Street Locality";
+"po_reference" = "Po Reference";
+
+
+
+//Added on 27/01/2018...
+"stock_not_available" = "Stock Not  Available";
+"grn_ref_no" = "GRN Ref";
+"handled_by" = "Handled By";
+"tax%"  = "Tax %";
+"total_discounts:" = "Total Discounts:";
+
+"no_master_verification_code_is_available" = "no_master_verification_code_is_available";
+
+
+
+// added on 06/02/2018
+"deals_view" = "DEALS";
+"search_deals" = "Search Deals";
+"dealIds" ="Deal ID";
+"item_group" = "Item Group";
+"deal_type" = "Deal Type";
+
+"deal_details_view" = "DEAL DETAILS";
+
+"deal_name"  = "Deal Name";
+"created_on" = "Created On";
+"deal_status"= "Deal Status";
+"locations"  = "Locations";
+"deal_days"  = "Deal Days";
+
+"sunday"    = "Sun";
+"monday"    = "Mon";
+"tuesday"   = "Tue";
+"wednesday" = "Wed";
+"thursday"  = "Thu";
+"friday"    = "Fri";
+"Saturday"  = "Sat";
+
+"allow_returns"   = "Allow Returns";
+"allow_exchanges" = "Allow Exchanges";
+"reward_type"     = "Reward Type";
+"reward_Criteria" = "Reward Criteria";
+"start_price"     = "Start Price";
+
+"min_qty"    = "Min Qty";
+"min_amount" = "Min Amt";
+"end_price"  = "End Price";
+
+"reward_value" = "Reward Value";
+"range_mode"   = "Range Mode";
+
+"low_price_item" = "Low Price Item";
+"repeat" = "Repeat";
+"allow_multiple_discounts" = "Allow Multiple Discounts";
+"deal_attributes" = "Deal Attributes";
+"product_categorization" = "Product Categorization";
+
+
+"offers_view" = "OFFERS";
+"offerIds" = "Offer ID";
+"offer_type" = "Offer Type";
+
+"offer_details_view" = "OFFER DETAILS";
+"offer_name" = "Offer Name";
+"offer_status" = "Offer Status";
+"offer_days" = "Offer Days";
+"offer_attributes" = "Offer Attributes";
+"quantity_based" = "Quantity Based";
+"turnOver_based" = "TurnOver Based";
+
+"total_grn_value" = "Total Grn Value";
+
+
+
+//Order Management.....
+
+"order_summary"     = "ORDER - SUMMARY";
+"order_value_start" = "Order-start value";
+"order_value_end"   = "Order-end value";
+"order_status"      = "Order Status";
+"Oder_channel"      = "Order Channel";
+
+"order_details" = "ORDER DETAILS";
+"order_id" = "Order ID";
+"date_and_time" = "Date & Time";
+
+"payment_status" = "Payment Status";
+"payment_mode"   = "Payment Mode";
+"shipment_charges" = "Shipment Charges";
+
+"net_bill_amount" = "Net Bill Amount";
+
+"make_bill" = "Make Bill";
+
+"no_orders_Available" = "No Orders Available";
+"please_select_order_List" = "Please Select Order List";
+"please_complete_Pending_bill" = "Please complete the Pending Bill";
+"no_items_in_the_order_toMake_bill" = "No Items in the order to make bill";
+"please_clear_the_on_going_bill_first" = "Please clear the ongoing bill first.";
+// up to here on 19/01/2018
+
+"total_records_" = "Total Records  :";
+"day_start" = "Day Start";
+"day_opening" = "DAY- OPENING";
+"login_name" = "Login Name:";
+"counter_" = "Counter:";
+"date_" = "Date:";
+"time_" = "Time:";
+"paid_amount_" = "PAID AMOUNT";
+"skip_" = "SKIP";
+"next_" = "NEXT";
+
+"open_cash" = "OPEN CASH:";
+"generate_report" = "Generate Report";
+"_generate_x_report" = "Generate X-Report";
+
+
+
+//Added By Bhargav.v 
+// up to here on 19/01/2018
+"search_orders" = "Search Orders";
+"order_date"    = "Order Date";
+"order_amount"  = "Order Amt";
+"new_order"  = "NEW ORDER";
+"payment_type"  = "Payment Type";
+"all_channels" = "All Channels";
+
+"ordered_date_can_not_be_more_than_current_data" = "Ordered date cannot be more than current date";
+
+//added On 22/03/2018...
+
+"payment_ref"  = "Payment Ref";
+"cheque_approval_no" = "Cheque/Approval No.";
+"customer_email_id" = "Customer Email Id";
+"customer_mobile_no" = "Customer Mobile No";
+"customer_address" = "  Customer Address :";
+"enter_landmark" = "Enter Landmark";
+"enter_city" = "Enter City";
+"enter_street" = "Enter Street";
+"enter_doorNo" = "Enter Door No";
+"enter_contact_no" = "Enter Contact No";
+"enter_google_map_link" = "Enter Google Map Link";
+"enter_pin" = "Enter Pin";
+"google_map_link" = "Google Map Link";
+"enter_email_address" = "Enter Email Address";
+"billing_adderess" = "  Billing Address :";
+"shipment_address" = "  Shipment Address :";
+"enter_name" = "Enter Name";
+"enter_state" = "Enter State";
+"state" = "State";
+"id" = "ID";
+"enter_sales_executive_name" = "Enter Sales Executive Name";
+"other_details" = "  Other Details :";
+"shipment_type" = "Shipment Type";
+"sales_executive_name" = "Sales Executive Name";
+"referred_by" = "Referred By";
+"delivery_type" = "Delivery Type";
+"special_discount" = "Special Discount";
+"tax_rate" = "Tax Rate";
+"channel" = "Channel";
+"delivery" = "Delivery";
+"order_details" = "ORDER DETAILS";
+"dd/mm/yyyy" = "DD/MM/YYYY";
+"delivery_date_can't_be_less_than_order_date" = "Delivery date can't be less than order date";
+"order_date_should_be_earlier_than_delivery_date" = "Order date should be earlier than delivery date";
+"menu_item_details" = "Menu Item Details";
+
+"on_delivery" = "On Delivery";
+"debit_card"  = "Debit Card";
+"normal" = "Normal";
+"road" = "Road";
+
+"cgst" = "CGST";
+"sgst" = "SGST";
+"other_taxes" = "Other Taxes";
+
+"shipping_cost" = "Shipping Cost";
+
+"total_cost:" = "Total Cost  :";
+"amount_paid" = "Amount Paid :";
+"amount_due"  = "Amount Due :";
+"edit_order"  = "EDIT ORDER";
+
+"please_select_order_delivery_date" = "Please select order delivery date";
+"please_enter_customer_mobile_number" = "Please enter customer mobile number";
+
+"order_generated_successfully" = "Order generated Successfully";
+"back_" = "BACK";
+
+"serial_number" = "Serial Number";
+"item_track_id" = "Item Track ID";
+"batch_no" = "Batch No:";
+"outbound_stockrequest_summary" = "OUTBOUND STOCK REQUEST - SUMMARY";
+"editStock_request_outbound" = "EDIT STOCK REQUEST - OUTBOUND";
+"to_warehouse" = "To Warehouse";
+
+// added by roja on 04/07/2018...
+"do_you_want_to_save_this_indent" = "Do you want to save this indent";
+
+
+// added by roja on 09-07-2018 && integerated on 20/07/2018....
+"to_store_code" = "To Store Code ";
+"priority_level" = "Priority Level";
+"shipping_mode" = " Shipping Mode";
+"priority" = "Priority";
+"no_more_activities" = "--NO MORE ACTIVITIES--";
+"rail" = "Rail";
+"flight" = "Flight";
+"express" = "Express";
+"ordinary" = "Ordinary";
+"low" = "Low";
+"medium" = "Medium";
+"high" = "High";
+"categories_list" = "Categories List";
+"select_all" = "Select All";
+"dd/MM/yyyy" = "dd/MM/yyyy";
+"cart_records" = "CART_RECORDS";
+"do you want to %@ this indent " = "Do you want to %@ this indent ";
+"--" = "--";
+"1" = "1";
+"CONTINUE" = "CONTINUE";
+"yyyy/MM/dd" = "yyyy/MM/dd";
+"all_subcategories_" = "All Sub Categories";
+
+"do_you_want_to_save_this_indent" = "Do you want to save this indent";
+"All" = "All";
+"--no_activities--" = "--NO ACTIVITIES--";
+"no_products_found" = "No Products Found";
+"records_are_added_to_the_cart_successfully" = "Records Are added to the cart successfully";
+"request_date_should_not_be_earlier_than_present_date" = "Request Date should not be earlier than present date";
+
+
+
+
+// stock Return added by roja on 23-07-2018...
+"expiry_date" = "Expiry Date";
+"scan_code" = "Scan Code";
+"you_cannot_update_an_empty_list" = "You can not update an empty list";
+"goods_issue_ref" = "GoodsIssue Ref.";
+"return_by" = "Return By";
+"goods_receipt_ref." = "Goods Receipt Ref.";
+"time_of_return" = "Time Of Return";
+"issue_reference_no." = "Issue Reference No.";
+"receipt_ref_no." = "Receipt Ref No.";
+"do_you_want_to_update_this_indent" = "Do you want to update this indent";
+
+//stock Issue added by roja on 27-07-2018...
+"shipment_ref_no" = "Shipment Ref No";
+"carried_by" = "Carried By";
+"pick_up_by" = "Pick up by";
+"shipment_ref." = "Shipment Ref.";
+"product_not_available" = "Product Not Available";
+"direct_person" = "Direct Person";
+"search_sku" = "Search Sku";
+"creating_receipt.." = "Creating Receipt..";
+"pack_size" = "Pack Size";
+
+//GoodsReceiptNote...
+"hsnCode"  = "Hsn Code";
+"exp_date" = "Exp.Date";
+
+
+//Day Open
+"day_start" = "Day Open";
+"floating_cash" = "Floating Cash:";
+"closed_by" = "Closed By:";
+
+"declared_cash" = "Declared Cash";
+"open_cash" = "Opening Cash";
+
+"please_enter_the_cash_before_you_submit" = "Please enter the cash before you submit";
+"day_open_is_already_created" = "Day Open is already created";
+
+//Day Closure....
+"day_closure" = "Day Closure";
+"dayClosure" = "DAY - CLOSURE";
+
+"carry_forward_amount" = "CARRY FORWARD AMOUNT";
+"carry_forward_amt_generated_successfully" = "Carry forward amount generated successfully";
+
+"fetch_data" = "Fetch Data";
+"add" = "Add";
+"min_val" = " Min";
+"max_val" = " Max";
+"bill_val" = "Bill Value";
+"membership" = "MemberShip";
+"house" = "House";
+"flat" = "Flat";
+"door_street" = "Door/Street";
+
+
+// Billing (Card Payment Details)
+
+"Bill_Summary" = "Bill Summary";
+"Card_Payments" = "Card Payments";
+"shipment_cost" = "Shipment Cost";
+"net_bill_amt" = "Net Bill Amt";
+
+// added by roja on 28-08-2018....
+
+"select_card" = "Select Card";
+"mpos" = "MPOS";
+"phone_number" = "Phone Number";
+"2"="2";
+"3"="3";
+
+// For OmniHome Page ---> added by roja on 02-09-2018....
+
+"last_downloaded_dates" = "Last Downloaded Dates";
+
+"product_data"= "Product Data";
+"promotions" = "Promotions";
+"customer_data" = "Customer Data";
+"employee_data" = "Employee Data";
+"customer_Loyalty" = "Customer Loyalty";
+
+"updated_date" = "Updated Date";
+"SKU_Count" = "SKU Count";
+"start_Sku"= "Start SKU";
+"end_Sku" = "End SKU";
+"Updated_By"= "Updated By";
+"Download_Time"= "Download Time";
+
+"offers_count" = "Offers Count" ;
+"deals_count" = "Deals Count" ;
+"customer_count" = "Customer Count" ;
+
+// For Order Management flow ---> added by roja on 10-09-2018....
+
+"discount_id" = "Discount ID";
+"total_tax" = "Total Tax";
+"ordering_quantity_should_not_exceed_the_available_quantity" = "Ordering quantity should not exceed the Available quantity";
+"minimum_quantity_required_to_make_an_order" = "Minimum quantity required to make an order";
+"offer" = "Offer";
+"other_Disc_(%)" = "Other Disc(%)";
+"enter_discount" = "Enter Discount";
+"discount_amount" = "Discount Amount";
+"promo_id" = "Promo Id";
+"*" = "*";
+"please_select_payment_type" = "Please select payment type";
+"please_select_payment_mode" = "Please select payment Mode";
+"please_enter_email_id" = "Please enter Email-Id";
+"please_enter_street" = "Please enter street";
+"please_enter_city" = "Please enter city";
+"please_enter_door_number" = "Please enter door number";
+"please_enter_contact_number" = "Please enter contact number";
+"please_enter_location" = "Please enter location";
+"please_enter_name" = "Please enter name";
+"please_enter_state" = "Please enter state";
+"please_select_order_channel" = "Please select order channel";
+"please_select_delivery_type" = "Please select delivery type";
+"order_channel" = "Order Channel";
+"please_enter_valid_email_id" = "Please enter valid Email-Id";
+"please_enter_valid_mobile_number" = "Please enter valid mobile number";
+"discount_amount_exceeding_the_total_amount" = "Discount Amount Exceeding the total amount";
+"please_enter_valid_input" = "Please enter valid input";
+"amount_to_be_paid" = "Amont To Be Paid";
+"net_bill_amount_should_be_greater_than_minimum_bill_amount" = "Net Bill amount should be greater than Minimum Bill amount";
+"cash_value" = "Cash Value";
+"checking_configurations" = "Checking Configurations";
+"indent_ref" = "Indent Ref";
+"falt_disc" = "Falt Disc";
+"free_qty" = "Free Qty";
+"no_of_units" = "No.Of Units";
+
+
+"menu" = "MENU";
+"billing" = "BILLING";
+
+"table_booking" = "Table Booking";
+"kitchen_order_token" = "Kitchen Order Token";
+"dine_in" = "Dine In";
+
+
+
+// added by roja on 06/02/2019
+"ValidPhoneNo" = "Please enter valid phone number";
+"Valid_DOB" = "Please select proper date";
+"date_validation" = "Please select proper date";
+"IncorrectEmail" = "Enter valid email id";
+"phoneNoMissing" = "Please enter mobile number";
+"customerNameMissing" = "Please enter the customer name";
+"slotIdMissing" = "Please enter the Slot Id";
+"occasionMissing" = "Plese enter the occasion";
+"noOfCustomers" = "Please enter no of customers";
+"count_does_not_match" = "Total number of adults does not match";
+"children_count_not_matching" = "Total number of children does not match";
+//upto here added by roja on 06/02/2019
+
+
+// added by roja on 07/02/2019
+// New Order flow as per lastest GUI....
+"time_slot" = "Time Slot";
+"getting_menu_details" = "Getting menu details";
+
+// added by roja on 19/04/2019
+"shipment_type_is_for_door_delivery_orders" = "Shipment type is for door delivery orders";
+"shipment_mode_is_for_door_delivery_orders" = "Shipment mode is for door delivery orders";
+"no_master_verification_code_is_available" = "Please first create verification  master.";
+"paid_amount_exceeding_the_net_bill_amount" = "Paid amount exceeding the net bill amount";
+"please_select_order_date" = "Please select order date";
+"please_select_delivery_end_time" = "Please select delivery end time";
+"please_select_delivery_start_time" = "Please select delivery start time";
+"please_enter_Shipment_city" = "Please enter shipment city";
+"please_enter_Shipment_location" = "Please enter shipment location";
+"please_enter_shipment_street" =  "Please enter shipment street";
+"please_enter_shipment_door_number" = "Please enter shipment door number";
+"please_enter_shipment_contact_number" = "Please enter shipment contact number";
+
+"please_select_end_time_to_deliver_the_order" = "Please select end time to deliver the order";
+"please_select_start_time_to_deliver_the_order" = "Please select start time to deliver the order";
+"please_select_confirm_date_to_deliver_the_order" = "Please select confirm date to deliver the order";
+"quantity_should_not_exceed_the_ordered_quantity" = "Quantity should not exceed the ordered quantity";
+"confirm_quantity_should_not_exceed_the_available_quantity" = "Confirm quantity should not exceed the available quantity";
+"paid_amount_exceeding_the_total_cost" = "Paid amount exceeding the total cost";
+
+"plu_code" = "PLUCODE";
+
+//Upto here added by roja on 19/04/2019
+

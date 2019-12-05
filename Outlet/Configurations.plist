@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RoomStatusColorCodes</key>
+	<dict>
+		<key>booked</key>
+		<string>[1.000000, 1.000000, 0.000000, 1.000000]</string>
+		<key>readyToOccupy</key>
+		<string>[0.000000, 1.000000, 0.000000, 0.500000]</string>
+		<key>underMaintainence</key>
+		<string>[1.000000, 0.000000, 0.000000, 0.500000]
+[1.000000, 0.000000, 0.000000, 0.500000]
+</string>
+		<key>gettingReady</key>
+		<string>[1.000000, 0.647059, 0.000000, 1.000000]</string>
+		<key>occupied</key>
+		<string>[0.200000, 0.600000, 0.800000, 1.000000]</string>
+	</dict>
+	<key>CleanBillsIn</key>
+	<dict>
+		<key>NoOfDays</key>
+		<string>15</string>
+		<key>NoOfHours</key>
+		<string>0</string>
+	</dict>
+	<key>maxResult</key>
+	<string>10</string>
+	<key>gender</key>
+	<array>
+		<string>Male</string>
+		<string>Female</string>
+	</array>
+	<key>workFlow</key>
+	<string>Booking</string>
+	<key>TableStatusColorCodes</key>
+	<dict>
+		<key>Vacant</key>
+		<string>[0.133333, 0.694118, 0.298039, 1.000000]</string>
+		<key>Allocated</key>
+		<string>[0.000000, 0.000000, 1.000000, 1.000000]</string>
+		<key>Occupied</key>
+		<string>[0.800000, 0.000000, 0.000000, 1.000000]</string>
+		<key>Billed</key>
+		<string>[1.000000, 0.498039, 0.152941, 1.000000]</string>
+		<key>Serving</key>
+		<string>[1.000000, 0.98923529, 0.28235294, 1.000000]</string>
+	</dict>
+	<key>Occasions</key>
+	<dict>
+		<key>Birthday</key>
+		<string>1</string>
+		<key>Anniversary</key>
+		<string>2</string>
+		<key>Kitty party</key>
+		<string>3</string>
+		<key>Office celebration</key>
+		<string>4</string>
+		<key>Other</key>
+		<string>5</string>
+	</dict>
+	<key>slotId</key>
+	<array>
+		<string>Lunch</string>
+		<string>Dinner</string>
+	</array>
+	<key>reservationMode</key>
+	<array>
+		<string>WalkIn</string>
+		<string>Telephone</string>
+	</array>
+	<key>bookingStatus</key>
+	<array>
+		<string>Arrived</string>
+		<string>Seated</string>
+		<string>Vacated</string>
+	</array>
+	<key>APILoginCredentials</key>
+	<dict>
+		<key>password</key>
+		<string>1sf786345</string>
+		<key>email_id</key>
+		<string>aie_sridhar</string>
+	</dict>
+	<key>PaymentStatus</key>
+	<array>
+		<string>paid</string>
+		<string>unpaid</string>
+	</array>
+	<key>PaymentTypes</key>
+	<array>
+		<string>cash</string>
+		<string>card</string>
+	</array>
+	<key>bookingType</key>
+	<array>
+		<string>Individual</string>
+		<string>Corporate</string>
+	</array>
+	<key>NoOfCustomers</key>
+	<string>5</string>
+	<key>Taxi Type</key>
+	<array>
+		<string>mini</string>
+		<string>sadan</string>
+		<string>premium</string>
+	</array>
+	<key>BookingStatus</key>
+	<array>
+		<string>booked</string>
+		<string>canceled</string>
+		<string>pending</string>
+	</array>
+</dict>
+</plist>
